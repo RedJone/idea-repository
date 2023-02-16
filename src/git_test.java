@@ -4,5 +4,6 @@ public class git_test {
         System.out.println("first version--version2.0");
         System.out.println("first version--version3.0");
         System.out.println("hot-fix version-- hot-fix version1.0");
+        System.out.println("hot-fix version-- hot-fix version2.0");
     }
 }
