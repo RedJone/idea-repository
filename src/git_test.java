@@ -15,5 +15,6 @@ public class git_test {
         System.out.println("hot version1.0");
         System.out.println("hot version2.0");
         System.out.println("hot version3.0");
+        System.out.println("fixed version0.005");
     }
 }
